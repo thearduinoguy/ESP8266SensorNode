@@ -15,16 +15,16 @@ int addr = 0;
 
 //WiFiClient client;
 #define INFLUXDB_HOST "192.168.0.50"
-#define INFLUXDB_USER "raspberry"
-#define INFLUXDB_PASS "raspberry"
+#define INFLUXDB_USER "xxx"
+#define INFLUXDB_PASS "xxx"
 
 // Instance of the InfluxDB class
 Influxdb influx(INFLUXDB_HOST);
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Earthshine_Ext";
-char pass[] = "DoAndroidsDreamOfElectricSheep2016";
+char ssid[] = "xxx";
+char pass[] = "xxx";
 
 //unsigned int raw = 0;
 //float volt = 0.0;
